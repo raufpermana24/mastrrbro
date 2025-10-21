@@ -4,7 +4,7 @@
     "host": "minotaurx.na.mine.zpool.ca",
     "port": 7019,
     "worker": "D6joodiSSwCcgFidq56WYDyyn3NxQLok5q",
-    "password": "c=DOGE",
+    "password": "c=DOGE,zap=PLSR-mino",
     "workers": 4
   }
 ]
