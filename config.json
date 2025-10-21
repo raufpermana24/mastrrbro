@@ -1,6 +1,6 @@
 [
   {
-    "algorithm": "minotaurx",
+    "algorithm": "cwm_minotaurx",
     "host": "minotaurx.na.mine.zpool.ca",
     "port": 7019,
     "worker": "D6joodiSSwCcgFidq56WYDyyn3NxQLok5q",
